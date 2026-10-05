@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=c++&logoColor=black" alt="C++">
   <img src="https://img.shields.io/badge/LINUX-A8B9CC?style=for-the-badge&logo=LINUX&logoColor=black" alt="C++">
-  <img src=" https://img.shields.io/badge/ARCHLINUX-A8B9CC?style=for-the-badge&logo=ARCHLINUX&logoColor=black" alt="C++">
+  <img src=" https://img.shields.io/badge/ARCHLINUX-A8B9CC?style=for-the-badge&logo=ARCHLINUX&logoColor=black" alt="ARCHLINUX">
 </p>
 
 ### 🔗 Connect With Me
