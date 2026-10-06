@@ -11,7 +11,7 @@
 👯 &nbsp;I'm looking to collaborate on **Open-Source Games**  
 💬 &nbsp;Ask me about **Python**  
 😄 &nbsp;Pronouns: **he/him**
-🐧&nbsp Endeavour OS user (based on arch btw)
+🐧 &nbsp; Endeavour OS user (based on arch btw)
 
 ### 🛠️ Tech Stack
 
