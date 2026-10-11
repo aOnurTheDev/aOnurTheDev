@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **C programming language**  
-🌱 &nbsp;I'm currently working on **sOnOs **  
+🌱 &nbsp;I'm currently working on **sOnOs**  
 👯 &nbsp;I'm looking to collaborate on **Open-Source Games**  
 💬 &nbsp;Ask me about **Python**  
 😄 &nbsp;Pronouns: **he/him**
