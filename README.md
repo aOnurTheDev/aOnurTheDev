@@ -6,10 +6,10 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **C programming language**  
-🌱 &nbsp;I'm currently working on **sOnOs**  
-👯 &nbsp;I'm looking to collaborate on **Open-Source Games**  
-💬 &nbsp;Ask me about **Python**  
+🔭 &nbsp;I'm currently working on **sOnOs**  
+🌱 &nbsp;I'm currently learning on **linux**  
+👯 &nbsp;I'm looking to collaborate on **Linux Distros**  
+💬 &nbsp;Ask me about **C**  
 😄 &nbsp;Pronouns: **he/him**
 🐧 &nbsp; Endeavour OS user **(based on arch btw)**
 
