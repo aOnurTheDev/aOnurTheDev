@@ -11,6 +11,7 @@
 👯 &nbsp;I'm looking to collaborate on **Linux Distros**  
 💬 &nbsp;Ask me about **C**  
 😄 &nbsp;Pronouns: **he/him**
+
 🐧 &nbsp; Endeavour OS user **(based on arch btw)**
 
 ### 🛠️ Tech Stack
