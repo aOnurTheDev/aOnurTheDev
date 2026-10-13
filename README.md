@@ -8,7 +8,7 @@
 
 🔭 &nbsp;I'm currently working on **sOnOs**  
 
-🌱 &nbsp;I'm currently learning on **linux**  
+🌱 &nbsp;I'm currently learning **linux**  
 
 👯 &nbsp;I'm looking to collaborate on **Linux Distros**  
 
