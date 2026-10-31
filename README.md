@@ -16,7 +16,7 @@
 
 😄 &nbsp;Pronouns: **he/him**
 
-🐧 &nbsp; Endeavour OS user **(based on arch btw)**
+🐧 &nbsp; Cachy OS user **(based on arch btw)**
 
 ### 🛠️ Tech Stack
 
